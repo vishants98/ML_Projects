@@ -1,2 +1,0 @@
-[0303/151550.751:ERROR:crash_report_database_win.cc(585)] GetFileAttributes C:\Users\vishant.sharma\AppData\Local\Temp\scoped_dir28112_357291857\Crashpad: The system cannot find the file specified. (0x2)
-[0304/085502.557:ERROR:crash_report_database_win.cc(585)] GetFileAttributes C:\Users\vishant.sharma\AppData\Local\Temp\scoped_dir22176_1519584300\Crashpad: The system cannot find the file specified. (0x2)
